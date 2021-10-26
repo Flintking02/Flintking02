@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flintking02
+- 👋 Hi, I’m Jonathan
 - 👀 I’m interested in TypeScript, NextJs
 - 🌱 I’m currently learning Static site generation
 - 💞️ I’m looking to collaborate on React/Next projects
